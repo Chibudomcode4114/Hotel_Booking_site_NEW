@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "password123",
+        "role": "admin",
+        "isActive": true
+    },
+    {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "password": "securepass456",
+        "role": "user",
+        "isActive": true
+    },
+    {
+        "name": "Carol Davis",
+        "email": "carol.davis@example.com",
+        "password": "mypassword789",
+        "role": "user",
+        "isActive": true
+    },
+    {
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "password": "password2024",
+        "role": "user",
+        "isActive": true
+    },
+    {
+        "name": "Eva Lewis",
+        "email": "eva.lewis@example.com",
+        "password": "password987",
+        "role": "user",
+        "isActive": true
+    },
+    {
+        "name": "Franklin Turner",
+        "email": "franklin.turner@example.com",
+        "password": "mysecurepass",
+        "role": "user",
+        "isActive": false
+    },
+    {
+        "name": "Grace Lee",
+        "email": "grace.lee@example.com",
+        "password": "12345",
+        "role": "guest",
+        "isActive": true
+    },
+    {
+        "name": "Henry Martinez",
+        "role": "guest",
+        "isActive": true
+    },
+    {
+        "name": "Ivy Brown",
+        "email": "ivy.brown@example.com",
+        "password": "guestpassword",
+        "role": "guest",
+        "isActive": true
+    },
+    {
+        "name": "Jack Wilson",
+        "email": "jack.wilson@example.com",
+        "password": "jackpass123",
+        "role": "admin",
+        "isActive": true
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "name": "City Hotel",
+        "address": "567 Main Street",
+        "rating": 3.8,
+        "description": "Stay in the heart of the city and explore its attractions.",
+        "amenities": [
+            "gym",
+            "conference rooms",
+            "restaurant"
+        ],
+        "photos": [
+            "photo4.jpg",
+            "photo5.jpg",
+            "photo6.jpg"
+        ],
+        "contact": {
+            "phone": "+987654321",
+            "email": "info@cityhotel.com",
+            "website": "https://www.cityhotel.com"
+        }
+    },
+    {
+        "name": "Beachside Resort",
+        "address": "123 Oceanfront Avenue",
+        "rating": 4.5,
+        "description": "Relax and unwind by the beautiful beach with stunning ocean views.",
+        "amenities": [
+            "pool",
+            "spa",
+            "beach access"
+        ],
+        "photos": [
+            "photo7.jpg",
+            "photo8.jpg",
+            "photo9.jpg"
+        ],
+        "contact": {
+            "phone": "+123456789",
+            "email": "info@beachsideresort.com",
+            "website": "https://www.beachsideresort.com"
+        }
+    },
+    {
+        "name": "Mountain Lodge",
+        "address": "789 Alpine Road",
+        "rating": 4.2,
+        "description": "Escape to the mountains and enjoy cozy accommodations surrounded by nature.",
+        "amenities": [
+            "fireplace",
+            "hiking trails",
+            "restaurant"
+        ],
+        "photos": [
+            "photo10.jpg",
+            "photo11.jpg",
+            "photo12.jpg"
+        ],
+        "contact": {
+            "phone": "+987654321",
+            "email": "info@mountainlodge.com",
+            "website": "https://www.mountainlodge.com"
+        }
+    },
+    {
+        "name": "Luxury Retreat",
+        "address": "456 Tranquil Lane",
+        "rating": 4.9,
+        "description": "Indulge in luxury and sophistication in a serene and opulent environment.",
+        "amenities": [
+            "spa",
+            "fine dining",
+            "private pool"
+        ],
+        "photos": [
+            "photo13.jpg",
+            "photo14.jpg",
+            "photo15.jpg"
+        ],
+        "contact": {
+            "phone": "+123456789",
+            "email": "info@luxuryretreat.com",
+            "website": "https://www.luxuryretreat.com"
+        }
+    },
+    {
+        "name": "Historic Inn",
+        "address": "101 Heritage Street",
+        "rating": 4.6,
+        "description": "Experience the charm of a historic inn with modern comforts and vintage decor.",
+        "amenities": [
+            "library",
+            "courtyard",
+            "tea room"
+        ],
+        "photos": [
+            "photo16.jpg",
+            "photo17.jpg",
+            "photo18.jpg"
+        ],
+        "contact": {
+            "phone": "+987654321",
+            "email": "info@historicinn.com",
+            "website": "https://www.historicinn.com"
+        }
+    },
+    {
+        "name": "Riverside Lodge",
+        "address": "234 Riverfront Road",
+        "rating": 4.3,
+        "description": "Enjoy a tranquil stay by the riverside with breathtaking water views.",
+        "amenities": [
+            "fishing",
+            "canoe rentals",
+            "fire pits"
+        ],
+        "photos": [
+            "photo19.jpg",
+            "photo20.jpg",
+            "photo21.jpg"
+        ],
+        "contact": {
+            "phone": "+123456789",
+            "email": "info@riversidelodge.com",
+            "website": "https://www.riversidelodge.com"
+        }
+    },
+    {
+        "name": "Urban Oasis",
+        "address": "345 Metropolitan Street",
+        "rating": 4.7,
+        "description": "Experience a serene oasis in the midst of the bustling city with lush gardens.",
+        "amenities": [
+            "spa",
+            "rooftop bar",
+            "fitness center"
+        ],
+        "photos": [
+            "photo22.jpg",
+            "photo23.jpg",
+            "photo24.jpg"
+        ],
+        "contact": {
+            "phone": "+987654321",
+            "email": "info@urbanoasis.com",
+            "website": "https://www.urbanoasis.com"
+        }
+    },
+    {
+        "name": "Countryside Manor",
+        "address": "567 Meadow Lane",
+        "rating": 4.1,
+        "description": "Escape to the countryside and experience the charm of a rustic manor.",
+        "amenities": [
+            "horseback riding",
+            "orchard",
+            "wine tasting"
+        ],
+        "photos": [
+            "photo25.jpg",
+            "photo26.jpg",
+            "photo27.jpg"
+        ],
+        "contact": {
+            "phone": "+123456789",
+            "email": "info@countrysidemanor.com",
+            "website": "https://www.countrysidemanor.com"
+        }
+    },
+    {
+        "name": "Tropical Paradise Resort",
+        "address": "789 Palm Avenue",
+        "rating": 4.8,
+        "description": "Experience paradise with palm trees, white sandy beaches, and crystal-clear waters.",
+        "amenities": [
+            "beachfront pool",
+            "water sports",
+            "tiki bar"
+        ],
+        "photos": [
+            "photo28.jpg",
+            "photo29.jpg",
+            "photo30.jpg"
+        ],
+        "contact": {
+            "phone": "+987654321",
+            "email": "info@tropicalresort.com",
+            "website": "https://www.tropicalresort.com"
+        }
+    },
+    {
+        "name": "Eco-Friendly Retreat",
+        "address": "123 Green Lane",
+        "rating": 4.4,
+        "description": "Embrace sustainability and eco-conscious living in a serene natural setting.",
+        "amenities": [
+            "organic farm",
+            "yoga studio",
+            "solar-powered cabins"
+        ],
+        "photos": [
+            "photo31.jpg",
+            "photo32.jpg",
+            "photo33.jpg"
+        ],
+        "contact": {
+            "phone": "+123456789",
+            "email": "info@ecofriendlyretreat.com",
+            "website": "https://www.ecofriendlyretreat.com"
+        }
+    }
+]

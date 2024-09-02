@@ -1,0 +1,62 @@
+[
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b1", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b2", // Replace with a valid User ObjectId
+        "rating": 5,
+        "reviewText": "Fantastic stay! The hotel exceeded all my expectations. The staff was very friendly and the rooms were pristine."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b1", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b3", // Replace with a valid User ObjectId
+        "rating": 4,
+        "reviewText": "Great hotel with excellent amenities. The only downside was the noise from the street outside."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b2", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b4", // Replace with a valid User ObjectId
+        "rating": 3,
+        "reviewText": "It was an average experience. The room was okay, but the service could have been better."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b3", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b5", // Replace with a valid User ObjectId
+        "rating": 2,
+        "reviewText": "Not happy with my stay. The hotel was outdated and the staff wasn't very helpful."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b4", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b6", // Replace with a valid User ObjectId
+        "rating": 1,
+        "reviewText": "Horrible experience. The room was dirty, and the management did not address the issues."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b1", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b7", // Replace with a valid User ObjectId
+        "rating": 4,
+        "reviewText": "Good stay overall. The breakfast was great and the location was perfect for sightseeing."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b2", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b8", // Replace with a valid User ObjectId
+        "rating": 5,
+        "reviewText": "Absolutely wonderful experience. The hotel was luxurious and the service was top-notch."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b3", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b9", // Replace with a valid User ObjectId
+        "rating": 3,
+        "reviewText": "The hotel was decent, but there were several issues with the reservation process."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b4", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b0", // Replace with a valid User ObjectId
+        "rating": 4,
+        "reviewText": "Comfortable stay with good facilities. However, the Wi-Fi was unreliable at times."
+    },
+    {
+        "hotel": "64d0a82d9c1e4e44d8c1d2b5", // Replace with a valid Hotel ObjectId
+        "user": "64d0a82d9c1e4e44d8c1d2b1", // Replace with a valid User ObjectId
+        "rating": 2,
+        "reviewText": "Disappointing stay. The hotel did not meet the standards I expected based on the reviews."
+    }
+]

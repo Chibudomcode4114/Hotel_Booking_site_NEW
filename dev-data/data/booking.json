@@ -1,0 +1,123 @@
+[
+    {
+        "hotel": "64df7c293a5e75b49fd90a61",
+        "room": "64df7c2b3a5e75b49fd90a63",
+        "user": "64df7c2d3a5e75b49fd90a65",
+        "checkInDate": "2024-08-20",
+        "checkOutDate": "2024-08-25",
+        "totalPrice": 750,
+        "status": "confirmed",
+        "paymentMethod": "credit card",
+        "specialRequests": "Late check-in"
+    },
+    {
+        "hotel": "64df7c293a5e75b49fd90a61",
+        "room": "64df7c2b3a5e75b49fd90a64",
+        "user": "64df7c2d3a5e75b49fd90a66",
+        "checkInDate": "2024-08-18",
+        "checkOutDate": "2024-08-22",
+        "totalPrice": 600,
+        "status": "confirmed",
+        "paymentMethod": "PayPal",
+        "specialRequests": "High floor, non-smoking"
+    },
+    {
+        "hotel": "64df7c293a5e75b49fd90a61",
+        "room": "64df7c2b3a5e75b49fd90a63",
+        "user": "64df7c2d3a5e75b49fd90a67",
+        "checkInDate": "2024-08-25",
+        "checkOutDate": "2024-08-28",
+        "totalPrice": 450,
+        "status": "pending",
+        "paymentMethod": "debit card",
+        "specialRequests": "Extra pillows"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a64",
+        "user": "64df7c2d3a5e75b49fd90a68",
+        "checkInDate": "2024-08-19",
+        "checkOutDate": "2024-08-23",
+        "totalPrice": 620,
+        "status": "canceled",
+        "paymentMethod": "credit card",
+        "specialRequests": ""
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a64",
+        "user": "64df7c2d3a5e75b49fd90a69",
+        "checkInDate": "2024-08-21",
+        "checkOutDate": "2024-08-26",
+        "totalPrice": 780,
+        "status": "confirmed",
+        "paymentMethod": "PayPal",
+        "specialRequests": "Vegetarian meals"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a63",
+        "user": "64df7c2d3a5e75b49fd90a70",
+        "checkInDate": "2024-08-22",
+        "checkOutDate": "2024-08-27",
+        "totalPrice": 830,
+        "status": "confirmed",
+        "paymentMethod": "credit card",
+        "specialRequests": "Accessible room"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a63",
+        "user": "64df7c2d3a5e75b49fd90a71",
+        "checkInDate": "2024-08-23",
+        "checkOutDate": "2024-08-29",
+        "totalPrice": 910,
+        "status": "pending",
+        "paymentMethod": "debit card",
+        "specialRequests": "Quiet room"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a64",
+        "user": "64df7c2d3a5e75b49fd90a72",
+        "checkInDate": "2024-08-24",
+        "checkOutDate": "2024-08-28",
+        "totalPrice": 720,
+        "status": "confirmed",
+        "paymentMethod": "credit card",
+        "specialRequests": "Late check-out"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a63",
+        "user": "64df7c2d3a5e75b49fd90a73",
+        "checkInDate": "2024-08-26",
+        "checkOutDate": "2024-08-31",
+        "totalPrice": 980,
+        "status": "confirmed",
+        "paymentMethod": "PayPal",
+        "specialRequests": "Ocean view"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a64",
+        "user": "64df7c2d3a5e75b49fd90a74",
+        "checkInDate": "2024-08-28",
+        "checkOutDate": "2024-09-02",
+        "totalPrice": 1050,
+        "status": "pending",
+        "paymentMethod": "credit card",
+        "specialRequests": "Extra towels"
+    },
+    {
+        "hotel": "64df7c2a3a5e75b49fd90a62",
+        "room": "64df7c2b3a5e75b49fd90a63",
+        "user": "64df7c2d3a5e75b49fd90a75",
+        "checkInDate": "2024-08-29",
+        "checkOutDate": "2024-09-03",
+        "totalPrice": 1120,
+        "status": "confirmed",
+        "paymentMethod": "debit card",
+        "specialRequests": "Early check-in"
+    }
+]
